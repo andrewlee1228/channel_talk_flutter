@@ -1,4 +1,4 @@
-package com.kuku.channel_talk_flutter;
+package ai.deepnatural.channel_talk;
 
 import com.zoyi.channel.plugin.android.open.listener.ChannelPluginListener;
 import com.zoyi.channel.plugin.android.open.model.PopupData;

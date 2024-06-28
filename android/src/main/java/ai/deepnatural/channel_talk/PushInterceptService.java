@@ -1,4 +1,4 @@
-package com.kuku.channel_talk_flutter;
+package ai.deepnatural.channel_talk;
 
 import com.google.firebase.messaging.*;
 import com.zoyi.channel.plugin.android.ChannelIO;

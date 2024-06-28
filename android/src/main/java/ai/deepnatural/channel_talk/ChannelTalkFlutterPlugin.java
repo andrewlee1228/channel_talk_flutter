@@ -1,4 +1,4 @@
-package com.kuku.channel_talk_flutter;
+package ai.deepnatural.channel_talk;
 
 import android.app.Activity;
 import android.app.Application;
