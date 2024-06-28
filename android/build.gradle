@@ -22,7 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.kuku.channel_talk_flutter"
+    // namespace "com.kuku.channel_talk_flutter"
+    namespace "ai.deepnatural.channel_talk"
 
     compileSdkVersion 31
 
@@ -35,7 +36,7 @@ android {
     }
 
     dependencies {
-        implementation 'io.channel:plugin-android:11.6.0'
+        implementation 'io.channel:plugin-android:11.6.2'
         implementation "com.google.firebase:firebase-messaging:20.1.0"
     }
 
