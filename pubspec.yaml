@@ -23,7 +23,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.kuku.channel_talk_flutter
+        package: ai.deepnatural.channel_talk
         pluginClass: ChannelTalkFlutterPlugin
       ios:
         pluginClass: ChannelTalkFlutterPlugin
